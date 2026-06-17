@@ -6,8 +6,6 @@ This project is a live digital-human chat system for a final presentation demo.
 
 The system allows a user to type a message, generates a natural language response, converts the response into speech with a custom voice, and optionally produces a talking-avatar video. The goal is to demonstrate an end-to-end multimodal foundation model pipeline in a simple interactive interface.
 
-The demo focuses on functionality and results rather than implementation details.
-
 ## Foundation Models Used
 
 This project uses three foundation models or foundation-model-based systems:
