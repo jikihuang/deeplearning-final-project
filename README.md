@@ -49,8 +49,6 @@ MuseTalk V1.5 is used for audio-driven talking-avatar video generation. The synt
 │   ├── start_musetalk_worker.sh
 │   ├── start_app.sh
 │   └── check_system.sh
-├── docs/
-│   └── FINAL_PRESENTATION_SCRIPT.md
 └── voice_samples/
     └── .gitkeep
 ```
