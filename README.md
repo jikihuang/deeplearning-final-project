@@ -232,38 +232,10 @@ Chinese:
 你好，请简单介绍一下这个数字人项目。
 ```
 
-## Final Presentation Demo Flow
-
-The final presentation is limited to approximately three minutes.
-
-Suggested flow:
-
-1. Open the Gradio interface.
-2. Upload an avatar image.
-3. Explain that the system uses Qwen, Boson TTS, and MuseTalk.
-4. Demonstrate Voice Mode with a short prompt.
-5. Demonstrate Video Mode with another short prompt.
-6. Show the generated talking-avatar video.
-7. Summarize the end-to-end pipeline.
-
 ## Reproducibility Notes
 
 This repository contains the main source code and setup instructions. Large model weights, API keys, generated outputs, private voice samples, and temporary files are not included.
 
-The following files and directories should not be committed:
-
-```text
-.env
-voice_samples/*
-outputs/
-outputs_text_live/
-work/
-work_text_live/
-worker_outputs/
-debug_frames/
-model weights
-Hugging Face cache
-```
 
 ## Project Summary
 
