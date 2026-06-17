@@ -1,0 +1,36 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# generated outputs
+outputs/
+outputs_text_live/
+work/
+work_text_live/
+worker_outputs/
+debug_frames/
+*.log
+
+# private voice/avatar files
+voice_samples/*
+!voice_samples/.gitkeep
+
+# model/cache/large files
+hf_cache/
+models/
+checkpoints/
+pretrained_weights/
+*.pth
+*.safetensors
+*.bin
+
+# editor/system
+.DS_Store
+.vscode/
+.idea/
+
+# local data and private samples
+data/
+voice_samples/*
+!voice_samples/.gitkeep
