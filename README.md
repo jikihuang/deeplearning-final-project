@@ -37,7 +37,7 @@ MuseTalk V1.5 is used for audio-driven talking-avatar video generation. The synt
 
 ```text
 .
-├── app.py
+├── demo.py
 ├── musetalk_worker_server.py
 ├── README.md
 ├── .env.example
